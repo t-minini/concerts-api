@@ -1,0 +1,24 @@
+{
+  "name": "concerts-api",
+  "version": "1.0.0",
+  "description": "My concerts API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-minini/concerts-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-minini/concerts-api/issues"
+  },
+  "homepage": "https://github.com/t-minini/concerts-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
