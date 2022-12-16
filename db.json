@@ -1,0 +1,24 @@
+{
+    "concerts": [
+        {
+            "id": 0,
+            "owner": "Tulio Minini",
+            "concert": "A Head Full of Dreams",
+            "artist": "Coldplay",
+            "date": "2017-12-10",
+            "country": "Ireland",
+            "city": "Dublin",
+            "rating": 5
+        },
+        {
+            "id": 1,
+            "owner": "Tulio Minini",
+            "concert": "The Honey Tour",
+            "artist": "Robyn",
+            "date": "2019-12-10",
+            "country": "UK",
+            "city": "London",
+            "rating": 5
+        }
+    ]
+}
